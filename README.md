@@ -1,2 +1,2 @@
 # Welcome to my web site
-## HTML Demo website, Created by SnakeT555
+## Created by SnakeT555
